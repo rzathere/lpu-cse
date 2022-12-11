@@ -2,7 +2,7 @@
 [![pages-build-deployment](https://github.com/sauravhathi/lpu-cse/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/sauravhathi/lpu-cse/actions/workflows/pages/pages-build-deployment)
 
 ## Study Materials, Projects, Roadmap, and more.
-
+ 
 #### This is a collection of study materials, projects, and roadmaps for Computer Science Engineering students at Lovely Professional University. We are a community of students who are passionate about learning and teaching. We are here to help you learn and grow.
 
 ## Live: https://sauravhathi.github.io/lpu-cse/
